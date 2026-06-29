@@ -48,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ARHAM56/DSA-2.5/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/ARHAM56/DSA-2.5/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/ARHAM56/DSA-2.5/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ARHAM56/DSA-2.5/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/ARHAM56/DSA-2.5/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/ARHAM56/DSA-2.5/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ARHAM56/DSA-2.5/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ARHAM56/DSA-2.5/tree/master/0509-fibonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ARHAM56/DSA-2.5/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
