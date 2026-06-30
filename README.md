@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/ARHAM56/DSA-2.5/tree/master/0152-maximum-product-subarray) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ARHAM56/DSA-2.5/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/ARHAM56/DSA-2.5/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ARHAM56/DSA-2.5/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/ARHAM56/DSA-2.5/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/ARHAM56/DSA-2.5/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/ARHAM56/DSA-2.5/tree/master/0509-fibonacci-number) |
 ## Recursion
