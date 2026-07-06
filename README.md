@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ARHAM56/DSA-2.5/tree/master/0064-minimum-path-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ARHAM56/DSA-2.5/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/ARHAM56/DSA-2.5/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ARHAM56/DSA-2.5/tree/master/0198-house-robber) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ARHAM56/DSA-2.5/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -104,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/0095-unique-binary-search-trees-ii) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ARHAM56/DSA-2.5/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ARHAM56/DSA-2.5/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
