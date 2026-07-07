@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ARHAM56/DSA-2.5/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ARHAM56/DSA-2.5/tree/master/0198-house-robber) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ARHAM56/DSA-2.5/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/ARHAM56/DSA-2.5/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/ARHAM56/DSA-2.5/tree/master/0658-find-k-closest-elements) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ARHAM56/DSA-2.5/tree/master/0902-numbers-at-most-n-given-digit-set) |
 ## Binary Search
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ARHAM56/DSA-2.5/tree/master/0076-minimum-window-substring) |
+| [0560-subarray-sum-equals-k](https://github.com/ARHAM56/DSA-2.5/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ARHAM56/DSA-2.5/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ARHAM56/DSA-2.5/tree/master/0085-maximal-rectangle) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ARHAM56/DSA-2.5/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
