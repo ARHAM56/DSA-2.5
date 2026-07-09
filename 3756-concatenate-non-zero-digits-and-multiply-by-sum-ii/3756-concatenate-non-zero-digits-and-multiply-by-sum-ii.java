@@ -22,17 +22,24 @@ class Solution {
 
         int m = digit.size();
 
+       
+
         long[] prefixSum = new long[m + 1];
         long[] prefixNum = new long[m + 1];
         long[] pow10 = new long[m + 1];
 
         pow10[0] = 1;
-        for (int i = 1; i <= m; i++)
+
+        for (int i = 1; i <= m; i++) {
+
+            // Power of 10
             pow10[i] = (pow10[i - 1] * 10) % MOD;
 
-        for (int i = 0; i < m; i++) {
-            prefixSum[i + 1] = prefixSum[i] + digit.get(i);
-            prefixNum[i + 1] = (prefixNum[i] * 10 + digit.get(i)) % MOD;
+            // Sum of digits
+            prefixSum[i] = prefixSum[i - 1] + digit.get(i - 1);
+
+            // Concatenated number
+            prefixNum[i] = (prefixNum[i - 1] * 10 + digit.get(i - 1)) % MOD;
         }
 
         int[] ans = new int[queries.length];
