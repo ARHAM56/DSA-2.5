@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ARHAM56/DSA-2.5/tree/master/0076-minimum-window-substring) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ARHAM56/DSA-2.5/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ARHAM56/DSA-2.5/tree/master/0509-fibonacci-number) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ARHAM56/DSA-2.5/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ARHAM56/DSA-2.5/tree/master/0560-subarray-sum-equals-k) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
 |  |
 | ------- |
