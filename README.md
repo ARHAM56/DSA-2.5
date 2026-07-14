@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ARHAM56/DSA-2.5/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ARHAM56/DSA-2.5/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ARHAM56/DSA-2.5/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/ARHAM56/DSA-2.5/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ARHAM56/DSA-2.5/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ARHAM56/DSA-2.5/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/ARHAM56/DSA-2.5/tree/master/0658-find-k-closest-elements) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ARHAM56/DSA-2.5/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ARHAM56/DSA-2.5/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/ARHAM56/DSA-2.5/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/ARHAM56/DSA-2.5/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/ARHAM56/DSA-2.5/tree/master/0509-fibonacci-number) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ARHAM56/DSA-2.5/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/ARHAM56/DSA-2.5/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/ARHAM56/DSA-2.5/tree/master/0322-coin-change) |
 ## Combinatorics
 |  |
 | ------- |
