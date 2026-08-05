@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ARHAM56/DSA-2.5/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ARHAM56/DSA-2.5/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ARHAM56/DSA-2.5/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/ARHAM56/DSA-2.5/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ARHAM56/DSA-2.5/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ARHAM56/DSA-2.5/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ARHAM56/DSA-2.5/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
 | ------- |
