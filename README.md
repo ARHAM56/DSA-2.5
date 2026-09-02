@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ARHAM56/DSA-2.5/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ARHAM56/DSA-2.5/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ARHAM56/DSA-2.5/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
