@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ARHAM56/DSA-2.5/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ARHAM56/DSA-2.5/tree/master/1552-magnetic-force-between-two-balls) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARHAM56/DSA-2.5/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2080-range-frequency-queries](https://github.com/ARHAM56/DSA-2.5/tree/master/2080-range-frequency-queries) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ARHAM56/DSA-2.5/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ARHAM56/DSA-2.5/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ARHAM56/DSA-2.5/tree/master/0875-koko-eating-bananas) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ARHAM56/DSA-2.5/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ARHAM56/DSA-2.5/tree/master/1552-magnetic-force-between-two-balls) |
+| [2080-range-frequency-queries](https://github.com/ARHAM56/DSA-2.5/tree/master/2080-range-frequency-queries) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ARHAM56/DSA-2.5/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARHAM56/DSA-2.5/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ARHAM56/DSA-2.5/tree/master/0560-subarray-sum-equals-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARHAM56/DSA-2.5/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2080-range-frequency-queries](https://github.com/ARHAM56/DSA-2.5/tree/master/2080-range-frequency-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ARHAM56/DSA-2.5/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
@@ -216,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARHAM56/DSA-2.5/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## Design
+|  |
+| ------- |
+| [2080-range-frequency-queries](https://github.com/ARHAM56/DSA-2.5/tree/master/2080-range-frequency-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [2080-range-frequency-queries](https://github.com/ARHAM56/DSA-2.5/tree/master/2080-range-frequency-queries) |
 <!---LeetCode Topics End-->
