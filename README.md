@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ARHAM56/DSA-2.5/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ARHAM56/DSA-2.5/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/ARHAM56/DSA-2.5/tree/master/0387-first-unique-character-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARHAM56/DSA-2.5/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ARHAM56/DSA-2.5/tree/master/0560-subarray-sum-equals-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARHAM56/DSA-2.5/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ARHAM56/DSA-2.5/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ARHAM56/DSA-2.5/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ARHAM56/DSA-2.5/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/ARHAM56/DSA-2.5/tree/master/0387-first-unique-character-in-a-string) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ARHAM56/DSA-2.5/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ARHAM56/DSA-2.5/tree/master/0387-first-unique-character-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARHAM56/DSA-2.5/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Design
 |  |
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ARHAM56/DSA-2.5/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ARHAM56/DSA-2.5/tree/master/0022-generate-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ARHAM56/DSA-2.5/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
