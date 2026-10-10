@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ARHAM56/DSA-2.5/tree/master/0042-trapping-rain-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ARHAM56/DSA-2.5/tree/master/0160-intersection-of-two-linked-lists) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARHAM56/DSA-2.5/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/ARHAM56/DSA-2.5/tree/master/0658-find-k-closest-elements) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ARHAM56/DSA-2.5/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ARHAM56/DSA-2.5/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ARHAM56/DSA-2.5/tree/master/0076-minimum-window-substring) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ARHAM56/DSA-2.5/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/ARHAM56/DSA-2.5/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/ARHAM56/DSA-2.5/tree/master/0387-first-unique-character-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARHAM56/DSA-2.5/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ARHAM56/DSA-2.5/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ARHAM56/DSA-2.5/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
