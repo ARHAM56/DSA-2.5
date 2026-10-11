@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ARHAM56/DSA-2.5/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/ARHAM56/DSA-2.5/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/ARHAM56/DSA-2.5/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ARHAM56/DSA-2.5/tree/master/0160-intersection-of-two-linked-lists) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARHAM56/DSA-2.5/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/ARHAM56/DSA-2.5/tree/master/0658-find-k-closest-elements) |
@@ -258,5 +259,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ARHAM56/DSA-2.5/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/ARHAM56/DSA-2.5/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ARHAM56/DSA-2.5/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
