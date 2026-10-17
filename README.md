@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ARHAM56/DSA-2.5/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ARHAM56/DSA-2.5/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ARHAM56/DSA-2.5/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ARHAM56/DSA-2.5/tree/master/0658-find-k-closest-elements) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ARHAM56/DSA-2.5/tree/master/1552-magnetic-force-between-two-balls) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ARHAM56/DSA-2.5/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARHAM56/DSA-2.5/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2080-range-frequency-queries](https://github.com/ARHAM56/DSA-2.5/tree/master/2080-range-frequency-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ARHAM56/DSA-2.5/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ARHAM56/DSA-2.5/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
