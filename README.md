@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARHAM56/DSA-2.5/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ARHAM56/DSA-2.5/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/ARHAM56/DSA-2.5/tree/master/0658-find-k-closest-elements) |
+| [0735-asteroid-collision](https://github.com/ARHAM56/DSA-2.5/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/ARHAM56/DSA-2.5/tree/master/0875-koko-eating-bananas) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ARHAM56/DSA-2.5/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-sum-of-subarray-minimums](https://github.com/ARHAM56/DSA-2.5/tree/master/0907-sum-of-subarray-minimums) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ARHAM56/DSA-2.5/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ARHAM56/DSA-2.5/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/ARHAM56/DSA-2.5/tree/master/0402-remove-k-digits) |
+| [0735-asteroid-collision](https://github.com/ARHAM56/DSA-2.5/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ARHAM56/DSA-2.5/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/ARHAM56/DSA-2.5/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/ARHAM56/DSA-2.5/tree/master/0735-asteroid-collision) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Counting
 |  |
