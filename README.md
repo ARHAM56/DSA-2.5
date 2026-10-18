@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ARHAM56/DSA-2.5/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/ARHAM56/DSA-2.5/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/ARHAM56/DSA-2.5/tree/master/0387-first-unique-character-in-a-string) |
+| [0460-lfu-cache](https://github.com/ARHAM56/DSA-2.5/tree/master/0460-lfu-cache) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARHAM56/DSA-2.5/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ARHAM56/DSA-2.5/tree/master/0560-subarray-sum-equals-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARHAM56/DSA-2.5/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/ARHAM56/DSA-2.5/tree/master/0460-lfu-cache) |
 | [2080-range-frequency-queries](https://github.com/ARHAM56/DSA-2.5/tree/master/2080-range-frequency-queries) |
 ## Segment Tree
 |  |
@@ -286,8 +288,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ARHAM56/DSA-2.5/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/ARHAM56/DSA-2.5/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ARHAM56/DSA-2.5/tree/master/0160-intersection-of-two-linked-lists) |
+| [0460-lfu-cache](https://github.com/ARHAM56/DSA-2.5/tree/master/0460-lfu-cache) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ARHAM56/DSA-2.5/tree/master/0148-sort-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/ARHAM56/DSA-2.5/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
