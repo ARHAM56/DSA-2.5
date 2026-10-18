@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ARHAM56/DSA-2.5/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/ARHAM56/DSA-2.5/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/ARHAM56/DSA-2.5/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/ARHAM56/DSA-2.5/tree/master/0678-valid-parenthesis-string) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ARHAM56/DSA-2.5/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ARHAM56/DSA-2.5/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ARHAM56/DSA-2.5/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/ARHAM56/DSA-2.5/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/ARHAM56/DSA-2.5/tree/master/0678-valid-parenthesis-string) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ARHAM56/DSA-2.5/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-sum-of-subarray-minimums](https://github.com/ARHAM56/DSA-2.5/tree/master/0907-sum-of-subarray-minimums) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ARHAM56/DSA-2.5/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ARHAM56/DSA-2.5/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ARHAM56/DSA-2.5/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/ARHAM56/DSA-2.5/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/ARHAM56/DSA-2.5/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ARHAM56/DSA-2.5/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ARHAM56/DSA-2.5/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/ARHAM56/DSA-2.5/tree/master/2104-sum-of-subarray-ranges) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ARHAM56/DSA-2.5/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/ARHAM56/DSA-2.5/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/ARHAM56/DSA-2.5/tree/master/0678-valid-parenthesis-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ARHAM56/DSA-2.5/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ARHAM56/DSA-2.5/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ARHAM56/DSA-2.5/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ARHAM56/DSA-2.5/tree/master/0678-valid-parenthesis-string) |
 ## Queue
 |  |
 | ------- |
