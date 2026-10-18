@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ARHAM56/DSA-2.5/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ARHAM56/DSA-2.5/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ARHAM56/DSA-2.5/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ARHAM56/DSA-2.5/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ARHAM56/DSA-2.5/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ARHAM56/DSA-2.5/tree/master/0085-maximal-rectangle) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ARHAM56/DSA-2.5/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ARHAM56/DSA-2.5/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ARHAM56/DSA-2.5/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ARHAM56/DSA-2.5/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ARHAM56/DSA-2.5/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ARHAM56/DSA-2.5/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ARHAM56/DSA-2.5/tree/master/0070-climbing-stairs) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ARHAM56/DSA-2.5/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/ARHAM56/DSA-2.5/tree/master/0402-remove-k-digits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
