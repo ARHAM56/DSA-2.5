@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ARHAM56/DSA-2.5/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-sum-of-subarray-minimums](https://github.com/ARHAM56/DSA-2.5/tree/master/0907-sum-of-subarray-minimums) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ARHAM56/DSA-2.5/tree/master/1552-magnetic-force-between-two-balls) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ARHAM56/DSA-2.5/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARHAM56/DSA-2.5/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2080-range-frequency-queries](https://github.com/ARHAM56/DSA-2.5/tree/master/2080-range-frequency-queries) |
 | [2104-sum-of-subarray-ranges](https://github.com/ARHAM56/DSA-2.5/tree/master/2104-sum-of-subarray-ranges) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ARHAM56/DSA-2.5/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/ARHAM56/DSA-2.5/tree/master/0509-fibonacci-number) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ARHAM56/DSA-2.5/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ARHAM56/DSA-2.5/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3875-construct-uniform-parity-array-i) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ARHAM56/DSA-2.5/tree/master/0509-fibonacci-number) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ARHAM56/DSA-2.5/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-sum-of-subarray-minimums](https://github.com/ARHAM56/DSA-2.5/tree/master/0907-sum-of-subarray-minimums) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ARHAM56/DSA-2.5/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ARHAM56/DSA-2.5/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ARHAM56/DSA-2.5/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ARHAM56/DSA-2.5/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ARHAM56/DSA-2.5/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ARHAM56/DSA-2.5/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -188,16 +193,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ARHAM56/DSA-2.5/tree/master/0096-unique-binary-search-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ARHAM56/DSA-2.5/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ARHAM56/DSA-2.5/tree/master/0096-unique-binary-search-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ARHAM56/DSA-2.5/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ARHAM56/DSA-2.5/tree/master/0096-unique-binary-search-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ARHAM56/DSA-2.5/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -228,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ARHAM56/DSA-2.5/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
@@ -250,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ARHAM56/DSA-2.5/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ARHAM56/DSA-2.5/tree/master/0148-sort-list) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ARHAM56/DSA-2.5/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Simulation
 |  |
 | ------- |
@@ -297,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/ARHAM56/DSA-2.5/tree/master/0460-lfu-cache) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ARHAM56/DSA-2.5/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
