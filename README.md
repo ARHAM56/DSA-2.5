@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/ARHAM56/DSA-2.5/tree/master/2104-sum-of-subarray-ranges) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ARHAM56/DSA-2.5/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ARHAM56/DSA-2.5/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ARHAM56/DSA-2.5/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ARHAM56/DSA-2.5/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ARHAM56/DSA-2.5/tree/master/0658-find-k-closest-elements) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ARHAM56/DSA-2.5/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARHAM56/DSA-2.5/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ARHAM56/DSA-2.5/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ARHAM56/DSA-2.5/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Heap (Priority Queue)
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ARHAM56/DSA-2.5/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/ARHAM56/DSA-2.5/tree/master/0658-find-k-closest-elements) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ARHAM56/DSA-2.5/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Matrix
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARHAM56/DSA-2.5/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/ARHAM56/DSA-2.5/tree/master/0658-find-k-closest-elements) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ARHAM56/DSA-2.5/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ARHAM56/DSA-2.5/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ARHAM56/DSA-2.5/tree/master/0560-subarray-sum-equals-k) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ARHAM56/DSA-2.5/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ARHAM56/DSA-2.5/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
 |  |
@@ -265,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ARHAM56/DSA-2.5/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/ARHAM56/DSA-2.5/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/ARHAM56/DSA-2.5/tree/master/0678-valid-parenthesis-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ARHAM56/DSA-2.5/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ARHAM56/DSA-2.5/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
